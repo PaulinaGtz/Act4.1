@@ -1,0 +1,21 @@
+"Area ID","Area","Students","Status ID","Status","Sex","Percentage"
+1,"Educación",2014,1,"Matriculados","Mujeres",0.014350044175905605
+2,"Artes y humanidades",9101,1,"Matriculados","Mujeres",0.06484595434206401
+3,"Ciencias sociales y derecho",25920,1,"Matriculados","Mujeres",0.18468378601761337
+4,"Administración y negocios",32381,1,"Matriculados","Mujeres",0.2307193547467723
+5,"Ciencias naturales, matemáticas y estadística",6682,1,"Matriculados","Mujeres",0.047610226009633196
+6,"Tecnologías de la información y la comunicación",9937,1,"Matriculados","Mujeres",0.07080257645281729
+7,"Ingeniería, manufactura y construcción",17782,1,"Matriculados","Mujeres",0.1266993473366204
+8,"Agronomía y veterinaria",6043,1,"Matriculados","Mujeres",0.04305725767378231
+9,"Ciencias de la salud",25231,1,"Matriculados","Mujeres",0.17977456037848777
+10,"Servicios",5257,1,"Matriculados","Mujeres",0.037456892866303756
+1,"Educación",108,2,"Graduados","Mujeres",0.052478134110787174
+2,"Artes y humanidades",56,2,"Graduados","Mujeres",0.027210884353741496
+3,"Ciencias sociales y derecho",231,2,"Graduados","Mujeres",0.11224489795918367
+4,"Administración y negocios",241,2,"Graduados","Mujeres",0.11710398445092322
+5,"Ciencias naturales, matemáticas y estadística",162,2,"Graduados","Mujeres",0.07871720116618076
+6,"Tecnologías de la información y la comunicación",25,2,"Graduados","Mujeres",0.012147716229348883
+7,"Ingeniería, manufactura y construcción",84,2,"Graduados","Mujeres",0.04081632653061224
+8,"Agronomía y veterinaria",12,2,"Graduados","Mujeres",0.0058309037900874635
+9,"Ciencias de la salud",1123,2,"Graduados","Mujeres",0.5456754130223518
+10,"Servicios",16,2,"Graduados","Mujeres",0.007774538386783284
